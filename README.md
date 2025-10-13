@@ -58,10 +58,27 @@ Bu projede tamamen Backend dili olarak PHP tercih edildi.
 - API: **JSON formatında veriler gönderirken FETCH kullandım.**
 
 # Projeden görseller
-
+- Anasayfa
 <a href="https://hizliresim.com/730s8pp"><img src="https://i.hizliresim.com/730s8pp.png" alt="quiz uygulaması ana sayfa"></a>
+- Kurallar modal(açılır pencere)
 <a href="https://hizliresim.com/23jjv0k"><img src="https://i.hizliresim.com/23jjv0k.png" alt="ff"></a>
+- Başla butonuna tıklayınca veri tabanındaki quizlerin listelenmesi
 [![ff}](https://i.hizliresim.com/oonroyx.png)](https://hizliresim.com/oonroyx)
+- Quiz oluşturma
+[![ff}](https://i.hizliresim.com/fkdrk2l.png)](https://hizliresim.com/fkdrk2l)
+- Soruların oluşturulması
+[![ff}](https://i.hizliresim.com/7dlcycu.png)](https://hizliresim.com/7dlcycu)
+- Son sorunun oluşturulması
+[![ff}](https://i.hizliresim.com/l4i2pb9.png)](https://hizliresim.com/l4i2pb9)
+- Oluşturulan sorunun listelenmesi
+[![ff}](https://i.hizliresim.com/6whbpoz.png)](https://hizliresim.com/6whbpoz)
+- Başla'ya tıklayınca soruların listelenmesi
+[![ff}](https://i.hizliresim.com/j4gdxqw.png)](https://hizliresim.com/j4gdxqw)
+- Son sorunun cevaplanması
+[![ff}](https://i.hizliresim.com/7j0hynb.png)](https://hizliresim.com/7j0hynb)
+- Quiz sonucunun görüntülenmesi
+[![ff}](https://i.hizliresim.com/cxsjo92.png)](https://hizliresim.com/cxsjo92)
+-Çıkış yap butonuna tıklanırsa quiz listesine yönlendirir.
 # Kurulum
 
 - 1- Projeyi indir.
