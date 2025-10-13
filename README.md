@@ -103,3 +103,5 @@ yazın orada projenizi seçin ve başlatın!
 
 
 ```
+
+## Herhangi bir fikriniz varsa issue kısmından iletebilirsiniz.
