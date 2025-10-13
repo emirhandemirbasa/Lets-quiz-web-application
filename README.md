@@ -36,7 +36,7 @@ Bu projede tamamen Backend dili olarak PHP tercih edildi.
 
 - Her işlem sonrası dogru, yanlis, atlanan sayaçları güncellenir. Ve kullanıcıya gösterilir.
 
-#Responsive Tasarım
+# Responsive Tasarım
 
 - Tasarım tamamen flexbox ve yüzde oranlı genişliklerle hazırlandı.
 - Mobil görünümde:
@@ -47,7 +47,7 @@ Bu projede tamamen Backend dili olarak PHP tercih edildi.
 
 - Font boyutları otomatik küçülür
 
-#Kullanılan Teknolojiler
+# Kullanılan Teknolojiler
 
 - Frontend: **HTML5, CSS, JAVASCRIPT**
 
@@ -58,7 +58,7 @@ Bu projede tamamen Backend dili olarak PHP tercih edildi.
 - API: **JSON formatında veriler gönderirken FETCH kullandım.**
 
 
-#Kurulum
+# Kurulum
 
 - 1- Projeyi indir.
 ```
