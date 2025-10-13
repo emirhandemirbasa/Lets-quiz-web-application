@@ -60,7 +60,7 @@ Bu projede tamamen Backend dili olarak PHP tercih edildi.
 # Projeden görseller
 
 <a href="https://hizliresim.com/730s8pp"><img src="https://i.hizliresim.com/730s8pp.png" alt="quiz uygulaması ana sayfa"></a>
-
+<div style="height: 0; padding-bottom: calc(56.25%); position:relative; width: 100%;"><iframe allow="autoplay; gyroscope;" allowfullscreen height="100%" referrerpolicy="strict-origin" src="https://www.kapwing.com/e/68ed7c3d94b9142e83db4868" style="border:0; height:100%; left:0; overflow:hidden; position:absolute; top:0; width:100%" title="Embedded content made on Kapwing" width="100%"></iframe></div><p style="font-size: 12px; text-align: right;">Gif edited on <a href="https://www.kapwing.com/video-editor">Kapwing</a></p>
 
 # Kurulum
 
