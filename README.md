@@ -57,6 +57,10 @@ Bu projede tamamen Backend dili olarak PHP tercih edildi.
 
 - API: **JSON formatında veriler gönderirken FETCH kullandım.**
 
+# Projeden görseller
+
+<a href="https://hizliresim.com/730s8pp"><img src="https://i.hizliresim.com/730s8pp.png" alt="quiz uygulaması ana sayfa"></a>
+
 
 # Kurulum
 
