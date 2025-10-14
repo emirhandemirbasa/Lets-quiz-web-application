@@ -208,11 +208,13 @@
     <p class="title">Aşağıda bulunan quizlerden birine başlayabilir veya kendiniz bir quiz oluşturabilirsiniz!</p>
     <div class="table-wrapper">
         <table>
-            <tr>
-                <th>Quiz Adı</th>
-                <th>Quiz Açıklaması</th>
-                <th>Seçenekler</th>
-            </tr>
+            <thead>
+                <tr>
+                    <th>Quiz Adı</th>
+                    <th>Quiz Açıklaması</th>
+                    <th>Seçenekler</th>
+                </tr>
+            </thead>
             <tbody>
                 
             </tbody>
