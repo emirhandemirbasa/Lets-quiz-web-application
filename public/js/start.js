@@ -3,9 +3,12 @@ const startBox = document.getElementById("startParent");
 const backBtn = document.getElementById("geriBtn");
 const ct = document.getElementById("createTestQuizID");
 
+const quizTableBody = document.querySelector("tbody");
+
 const questionBox = document.getElementById("questions");
 
 backBtn.addEventListener("click", () => {
+    console.log(quizTableBody)
     if (quizs.style.display == "flex") {
         startBox.style.display = "flex";
         backBtn.style.display = "none";
@@ -25,6 +28,9 @@ backBtn.addEventListener("click", () => {
         backBtn.style.bottom = "10px";
         backBtn.style.top = "";
     }
+
+    const quizTableBody1 = document.querySelector("tbody");
+    quizTableBody1.innerHTML="";
 })
 
 
@@ -41,7 +47,6 @@ baslaBtn.addEventListener("click", async () => {
 async function dataUpdate() {
     const response = await fetch("../public/Views/test.php");
     const data = await response.json();
-    const quizTableBody = document.querySelector("tbody");
 
     // her quiz için tablo satırı oluştur
     data.forEach(q => {
